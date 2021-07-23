@@ -81,6 +81,8 @@
 				<Item Name="Decorations - Set Tag.vi" Type="VI" URL="../Utilities/Decorations - Set Tag.vi"/>
 				<Item Name="Set Decoration Tag.vi" Type="VI" URL="../Utilities/Set Decoration Tag.vi"/>
 			</Item>
+			<Item Name="BenjaminR Icon.vi" Type="VI" URL="../Utilities/BenjaminR Icon.vi"/>
+			<Item Name="Palette Icon.vi" Type="VI" URL="../Utilities/Palette Icon.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
