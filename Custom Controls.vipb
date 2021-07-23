@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2020-10-27 18:05:48" Modified_Date="2021-07-23 08:01:28" Creator="Benjamin" Comments="" ID="11fb0e94f69bf7e595d9a0a90f16c21d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2020-10-27 18:05:48" Modified_Date="2021-07-23 08:08:04" Creator="Benjamin" Comments="" ID="592456325f3f4ef8d5c384b18c0efaca">
   <Library_General_Settings>
     <Package_File_Name>benjaminr_custom_controls</Package_File_Name>
-    <Library_Version>1.1.0.2</Library_Version>
+    <Library_Version>1.1.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>2017</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -245,7 +245,7 @@
         <Path>2017\Decorations</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B3FF4D4173B1298FE056C41EE8C03400</GUID>
+      <GUID>05BF8E2D75AE909BDB8414864F8F6F84</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -966,7 +966,7 @@
         <Path>2017\Booleans\Trash.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>989F4972858B5556D752E044763F2EA2</GUID>
+      <GUID>0FFE5741472C805F72952BC0EDEDBC80</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1015,7 +1015,7 @@
         <Path>2017\Strings and Paths\Title.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FF05B249E6A0FEA86A2330042E25938C</GUID>
+      <GUID>724280F736991A0D108C24E7AD8BCED7</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1064,7 +1064,7 @@
         <Path>2017\Decorations\Horizontal Container.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D0E1C24B34668C031B104C40C6674A34</GUID>
+      <GUID>514821D4BD07DC3BFF78DA690E5716CB</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
