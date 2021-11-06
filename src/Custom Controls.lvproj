@@ -74,10 +74,12 @@
 		</Item>
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Controls" Type="Folder">
-				<Item Name="Control - Set Settings.vi" Type="VI" URL="../Booleans/Control - Set Settings.vi"/>
+				<Item Name="Control - Set Settings.vi" Type="VI" URL="../Utilities/Control - Set Settings.vi"/>
+				<Item Name="Control - Set User Object Tag.vi" Type="VI" URL="../Utilities/Control - Set User Object Tag.vi"/>
 			</Item>
 			<Item Name="Decorations" Type="Folder">
 				<Item Name="Change Decoration Color.vi" Type="VI" URL="../Utilities/Change Decoration Color.vi"/>
+				<Item Name="Decorations - Change Color.vi" Type="VI" URL="../Utilities/Decorations - Change Color.vi"/>
 				<Item Name="Decorations - Set Tag.vi" Type="VI" URL="../Utilities/Decorations - Set Tag.vi"/>
 				<Item Name="Set Decoration Tag.vi" Type="VI" URL="../Utilities/Set Decoration Tag.vi"/>
 			</Item>
@@ -131,15 +133,18 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check for Contained Data Type.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/VariantDataType/Check for Contained Data Type.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="Type Specific Details.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/VariantDataType/Type Specific Details.ctl"/>
 				<Item Name="UserTags.lvlib" Type="Library" URL="/&lt;vilib&gt;/UserTags/UserTags.lvlib"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
