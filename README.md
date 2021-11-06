@@ -15,4 +15,8 @@ Set of LabVIEW custom controls using filled and Windows 11 icons.
 	<HR SIZE="1" WIDTH=" 100.000000%">
 	<H3>Decorations</H3>
 		<IMG SRC="./images/Control Collection/Decorations/Horizontal_Containerp.png"  ALT="Horizontal_Containerp.png">	<IMG SRC="./images/Control Collection/Decorations/Vertical_Containerp.png"  ALT="Vertical_Containerp.png">
+	<A NAME="Decorations _ Change Color.vi"></A><H2>Decorations - Change Color.vi</H2>
+	<P>Dynamically changes the foreground and background colors of all Decorations, droppped from the Custom Controls palette, on the specified <B>VI Refunum</B> Front Panel to the <B>Decoration Color</B>. This VI handles the Label text color to make sure the text stands out from the <B>Decoration Color</B>.</P>
+	<P><IMG SRC="./docs/CustomControls_Help/Decorations_-_Change_Colorc.png" ALT="Decorations - Change Color.vi"></P>
 </DIV>
+
