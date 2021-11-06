@@ -1,4 +1,4 @@
 # Custom-Controls
-Set of custom controls using filled icons
+Set of LabVIEW custom controls using filled and Windows 11 icons.
 
 
