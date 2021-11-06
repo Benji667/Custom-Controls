@@ -1,0 +1,11 @@
+Custom Controls palettes.
+
+Buttons - Use as a control to select a command by depressing the button. 
+
+Use string controls and indicators to enter or display text. Use path controls and indicators to enter or display file or folder paths. 
+
+Use decorations to graphically group or separate front panel objects without affecting the functionality of the VI.
+
+Windows 11 Theme - Buttons - Use as a control to select a command by depressing the button. 
+
+You can use the Custom Controls palette VI to dynamically change the Decoration color.
