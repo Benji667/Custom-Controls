@@ -1,5 +1,16 @@
 # Custom-Controls
-Set of LabVIEW custom controls using filled and Windows 11 icons.
+The Custom Controls project aims to provides additional LabVIEW controls customized to come up with users a more familiar interface in LabVIEW. 
+
+This project contains: 
+
+* Material Design: custom controls that are inspired by the Material Design.
+	* Buttons: icon-based buttons using light Material Filled icons.
+	* Strings and Paths: string and path controls with transparent background.
+	* Decorations: nice way to graphically group or separate front panel objects without affecting the functionality of the VI.An utility VI offers the ability to dynamically change the Decoration color on a specific VI Front Panel.
+
+* Windows 11: icon-based button build up on Windows operating system controls. 
+		* System: default orientation that fits dialog box design.
+		* Vertical: vertical orientation that fits menu taskbar or toolbar design.
 
 ## Collection list
 
