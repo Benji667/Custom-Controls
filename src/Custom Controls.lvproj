@@ -87,54 +87,109 @@
 			<Item Name="Palette Icon.vi" Type="VI" URL="../Utilities/Palette Icon.vi"/>
 		</Item>
 		<Item Name="Windows 11 Theme" Type="Folder">
-			<Item Name="Vertical Audio File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Audio File Button.ctl"/>
-			<Item Name="Vertical Cancel Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Cancel Button.ctl"/>
-			<Item Name="Vertical Computer Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Computer Button.ctl"/>
-			<Item Name="Vertical Config Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Config Button.ctl"/>
-			<Item Name="Vertical Desktop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Desktop Button.ctl"/>
-			<Item Name="Vertical Folder Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Button.ctl"/>
-			<Item Name="Vertical Folder Desktop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Desktop Button.ctl"/>
-			<Item Name="Vertical Folder Document Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Document Button.ctl"/>
-			<Item Name="Vertical Folder Download Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Download Button.ctl"/>
-			<Item Name="Vertical Folder Link Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Link Button.ctl"/>
-			<Item Name="Vertical Folder Object Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Object Button.ctl"/>
-			<Item Name="Vertical Folder Picture Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Picture Button.ctl"/>
-			<Item Name="Vertical Folder Search Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder Search Button.ctl"/>
-			<Item Name="Vertical Folder User Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Folder User Button.ctl"/>
-			<Item Name="Vertical Hardrive Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Hardrive Button.ctl"/>
-			<Item Name="Vertical Help Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Help Button.ctl"/>
-			<Item Name="Vertical Help2 Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Help2 Button.ctl"/>
-			<Item Name="Vertical History Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical History Button.ctl"/>
-			<Item Name="Vertical Info Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Info Button.ctl"/>
-			<Item Name="Vertical Link Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Link Button.ctl"/>
-			<Item Name="Vertical Lock Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Lock Button.ctl"/>
-			<Item Name="Vertical Music File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Music File Button.ctl"/>
-			<Item Name="Vertical Network Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Network Button.ctl"/>
-			<Item Name="Vertical Note Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Note Button.ctl"/>
-			<Item Name="Vertical OK Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical OK Button.ctl"/>
-			<Item Name="Vertical Printer Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Printer Button.ctl"/>
-			<Item Name="Vertical Printer Network Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Printer Network Button.ctl"/>
-			<Item Name="Vertical Printer Shared Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Printer Shared Button.ctl"/>
-			<Item Name="Vertical Programs Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Programs Button.ctl"/>
-			<Item Name="Vertical Recent Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Recent Button.ctl"/>
-			<Item Name="Vertical Refresh Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Refresh Button.ctl"/>
-			<Item Name="Vertical Search Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Search Button.ctl"/>
-			<Item Name="Vertical Settings Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Settings Button.ctl"/>
-			<Item Name="Vertical Stop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Stop Button.ctl"/>
-			<Item Name="Vertical Trash Empty Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Trash Empty Button.ctl"/>
-			<Item Name="Vertical Trash Full Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Trash Full Button.ctl"/>
-			<Item Name="Vertical User Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical User Button.ctl"/>
-			<Item Name="Vertical Users Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Users Button.ctl"/>
-			<Item Name="Vertical Video File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Video File Button.ctl"/>
-			<Item Name="Vertical Warning Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Warning Button.ctl"/>
-			<Item Name="Vertical Zip Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical Zip Button.ctl"/>
+			<Item Name="System" Type="Folder">
+				<Item Name="System Audio File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Audio File Button.ctl"/>
+				<Item Name="System Cancel Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Cancel Button.ctl"/>
+				<Item Name="System Checkbox.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Checkbox.ctl"/>
+				<Item Name="System Computer Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Computer Button.ctl"/>
+				<Item Name="System Config Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Config Button.ctl"/>
+				<Item Name="System Desktop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Desktop Button.ctl"/>
+				<Item Name="System Folder Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Button.ctl"/>
+				<Item Name="System Folder Desktop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Desktop Button.ctl"/>
+				<Item Name="System Folder Document Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Document Button.ctl"/>
+				<Item Name="System Folder Download Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Download Button.ctl"/>
+				<Item Name="System Folder Link Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Link Button.ctl"/>
+				<Item Name="System Folder Object Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Object Button.ctl"/>
+				<Item Name="System Folder Picture Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Picture Button.ctl"/>
+				<Item Name="System Folder Search Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder Search Button.ctl"/>
+				<Item Name="System Folder User Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Folder User Button.ctl"/>
+				<Item Name="System Hardrive Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Hardrive Button.ctl"/>
+				<Item Name="System Help Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Help Button.ctl"/>
+				<Item Name="System Help2 Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Help2 Button.ctl"/>
+				<Item Name="System History Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System History Button.ctl"/>
+				<Item Name="System Info Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Info Button.ctl"/>
+				<Item Name="System Link Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Link Button.ctl"/>
+				<Item Name="System Lock Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Lock Button.ctl"/>
+				<Item Name="System Music File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Music File Button.ctl"/>
+				<Item Name="System Network Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Network Button.ctl"/>
+				<Item Name="System Note Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Note Button.ctl"/>
+				<Item Name="System OK Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System OK Button.ctl"/>
+				<Item Name="System Printer Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Printer Button.ctl"/>
+				<Item Name="System Printer Network Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Printer Network Button.ctl"/>
+				<Item Name="System Printer Shared Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Printer Shared Button.ctl"/>
+				<Item Name="System Programs Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Programs Button.ctl"/>
+				<Item Name="System Recent Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Recent Button.ctl"/>
+				<Item Name="System Refresh Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Refresh Button.ctl"/>
+				<Item Name="System Search Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Search Button.ctl"/>
+				<Item Name="System Settings Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Settings Button.ctl"/>
+				<Item Name="System Stop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Stop Button.ctl"/>
+				<Item Name="System Trash Empty Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Trash Empty Button.ctl"/>
+				<Item Name="System Trash Full Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Trash Full Button.ctl"/>
+				<Item Name="System User Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System User Button.ctl"/>
+				<Item Name="System Users Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Users Button.ctl"/>
+				<Item Name="System Video File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Video File Button.ctl"/>
+				<Item Name="System Warning Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Warning Button.ctl"/>
+				<Item Name="System Zip Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/System/System Zip Button.ctl"/>
+			</Item>
+			<Item Name="Vertical" Type="Folder">
+				<Item Name="Vertical Audio File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Audio File Button.ctl"/>
+				<Item Name="Vertical Cancel Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Cancel Button.ctl"/>
+				<Item Name="Vertical Computer Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Computer Button.ctl"/>
+				<Item Name="Vertical Config Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Config Button.ctl"/>
+				<Item Name="Vertical Desktop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Desktop Button.ctl"/>
+				<Item Name="Vertical Folder Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Button.ctl"/>
+				<Item Name="Vertical Folder Desktop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Desktop Button.ctl"/>
+				<Item Name="Vertical Folder Document Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Document Button.ctl"/>
+				<Item Name="Vertical Folder Download Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Download Button.ctl"/>
+				<Item Name="Vertical Folder Link Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Link Button.ctl"/>
+				<Item Name="Vertical Folder Object Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Object Button.ctl"/>
+				<Item Name="Vertical Folder Picture Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Picture Button.ctl"/>
+				<Item Name="Vertical Folder Search Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder Search Button.ctl"/>
+				<Item Name="Vertical Folder User Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Folder User Button.ctl"/>
+				<Item Name="Vertical Hardrive Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Hardrive Button.ctl"/>
+				<Item Name="Vertical Help Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Help Button.ctl"/>
+				<Item Name="Vertical Help2 Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Help2 Button.ctl"/>
+				<Item Name="Vertical History Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical History Button.ctl"/>
+				<Item Name="Vertical Info Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Info Button.ctl"/>
+				<Item Name="Vertical Link Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Link Button.ctl"/>
+				<Item Name="Vertical Lock Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Lock Button.ctl"/>
+				<Item Name="Vertical Music File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Music File Button.ctl"/>
+				<Item Name="Vertical Network Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Network Button.ctl"/>
+				<Item Name="Vertical Note Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Note Button.ctl"/>
+				<Item Name="Vertical OK Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical OK Button.ctl"/>
+				<Item Name="Vertical Printer Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Printer Button.ctl"/>
+				<Item Name="Vertical Printer Network Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Printer Network Button.ctl"/>
+				<Item Name="Vertical Printer Shared Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Printer Shared Button.ctl"/>
+				<Item Name="Vertical Programs Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Programs Button.ctl"/>
+				<Item Name="Vertical Recent Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Recent Button.ctl"/>
+				<Item Name="Vertical Refresh Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Refresh Button.ctl"/>
+				<Item Name="Vertical Search Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Search Button.ctl"/>
+				<Item Name="Vertical Settings Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Settings Button.ctl"/>
+				<Item Name="Vertical Stop Button - Copie.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Stop Button - Copie.ctl"/>
+				<Item Name="Vertical Stop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Stop Button.ctl"/>
+				<Item Name="Vertical Trash Empty Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Trash Empty Button.ctl"/>
+				<Item Name="Vertical Trash Full Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Trash Full Button.ctl"/>
+				<Item Name="Vertical User Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical User Button.ctl"/>
+				<Item Name="Vertical Users Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Users Button.ctl"/>
+				<Item Name="Vertical Video File Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Video File Button.ctl"/>
+				<Item Name="Vertical Warning Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Warning Button.ctl"/>
+				<Item Name="Vertical Zip Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Zip Button.ctl"/>
+			</Item>
 		</Item>
+		<Item Name="genDoc.vi" Type="VI" URL="../Utilities/genDoc.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Check Color Table Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Color Table Size.vi"/>
+				<Item Name="Check Data Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Data Size.vi"/>
+				<Item Name="Check File Permissions.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check File Permissions.vi"/>
 				<Item Name="Check for Contained Data Type.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/VariantDataType/Check for Contained Data Type.vi"/>
+				<Item Name="Check Path.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Path.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
+				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
+				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
@@ -143,6 +198,7 @@
 				<Item Name="Type Specific Details.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/VariantDataType/Type Specific Details.ctl"/>
 				<Item Name="UserTags.lvlib" Type="Library" URL="/&lt;vilib&gt;/UserTags/UserTags.lvlib"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
+				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
