@@ -165,7 +165,6 @@
 				<Item Name="Vertical Refresh Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Refresh Button.ctl"/>
 				<Item Name="Vertical Search Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Search Button.ctl"/>
 				<Item Name="Vertical Settings Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Settings Button.ctl"/>
-				<Item Name="Vertical Stop Button - Copie.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Stop Button - Copie.ctl"/>
 				<Item Name="Vertical Stop Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Stop Button.ctl"/>
 				<Item Name="Vertical Trash Empty Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Trash Empty Button.ctl"/>
 				<Item Name="Vertical Trash Full Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Trash Full Button.ctl"/>
@@ -176,7 +175,6 @@
 				<Item Name="Vertical Zip Button.ctl" Type="VI" URL="../Windows 11 Theme/Booleans/Vertical/Vertical Zip Button.ctl"/>
 			</Item>
 		</Item>
-		<Item Name="genDoc.vi" Type="VI" URL="../Utilities/genDoc.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check Color Table Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Color Table Size.vi"/>
